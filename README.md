@@ -1,6 +1,6 @@
 # 💫 About Me:
-currently learning Machine Learning
-
+portfolio website
+https://github.com/Jarvihs79/single-page-portfolio
 
 ## 🌐 Socials:
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/jarvihs__) 
