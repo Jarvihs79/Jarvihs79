@@ -1,6 +1,6 @@
 # 💫 About Me:
 portfolio website
-(https://jarvihs79.github.io/single-page-portfolio/)
+https://jarvihs79.github.io/single-page-portfolio/
 
 ## 🌐 Socials:
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/jarvihs__) 
